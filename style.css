@@ -1,0 +1,32 @@
+body {
+    background-color: #A2D2FF;
+}
+
+hr
+{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height:0px;
+    width: 5%;
+}
+h3{
+color: #60a8ec;
+}
+h1{
+color: #60b0fa;
+
+margin: 0;
+}
+.AD {
+    margin: 50px;
+}
+.df {
+    Border-radius: 50%;
+}
+
+p {
+    margin-left: 0%;
+}
